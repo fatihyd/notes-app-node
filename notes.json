@@ -1,1 +1,10 @@
-[{"title":"tototy","body":"bobody"}]
+[
+    {
+        "title": "tototy",
+        "body": "bobody"
+    },
+    {
+        "title": "shopping list",
+        "body": "3 apples"
+    }
+]
