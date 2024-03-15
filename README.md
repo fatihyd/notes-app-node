@@ -21,20 +21,20 @@ This is a simple command-line notes application built with Node.js. It allows us
 
 ### Add a Note:
 ```bash
-   node app.js add --title="<Note Title>" --body="<Note Body>"
+node app.js add --title="<Note Title>" --body="<Note Body>"
 ```
 
 ### Remove a Note:
 ```bash
-   node app.js remove --title="<Note Title>"
+node app.js remove --title="<Note Title>"
 ```
 
 ### List All Notes:
 ```bash
-   node app.js list
+node app.js list
 ```
 
 ### Read a Note:
 ```bash
-   node app.js read --title="<Note Title>"
+node app.js read --title="<Note Title>"
 ```
