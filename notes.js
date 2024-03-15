@@ -3,7 +3,7 @@ const chalk = require('chalk');
 
 function addNote(title, body) {
     const notes = loadNotes();
-    const duplicateNode = notes.find((note) => {
+    const duplicateNote = notes.find((note) => {
         return note.title === title;
     })
 
